@@ -15,8 +15,8 @@
 
 <div>
   <a href="https://github.com/gabrielandresoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielandresoliveira&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandresoliveira&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielandresoliveira&show_icons=true&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielandresoliveira&theme=github_dark"/>
 </div> 
  
 <hr>
